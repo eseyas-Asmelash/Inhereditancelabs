@@ -1,0 +1,6 @@
+C:\Users\aies2\Desktop\InhereditanceLab\InhereditanceLab\StackofStrings\bin\Debug\StackofStrings.exe.config
+C:\Users\aies2\Desktop\InhereditanceLab\InhereditanceLab\StackofStrings\bin\Debug\StackofStrings.exe
+C:\Users\aies2\Desktop\InhereditanceLab\InhereditanceLab\StackofStrings\bin\Debug\StackofStrings.pdb
+C:\Users\aies2\Desktop\InhereditanceLab\InhereditanceLab\StackofStrings\obj\Debug\StackofStrings.exe
+C:\Users\aies2\Desktop\InhereditanceLab\InhereditanceLab\StackofStrings\obj\Debug\StackofStrings.pdb
+C:\Users\aies2\Desktop\InhereditanceLab\InhereditanceLab\StackofStrings\obj\Debug\StackofStrings.csprojAssemblyReference.cache

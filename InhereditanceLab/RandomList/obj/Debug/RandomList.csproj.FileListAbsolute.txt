@@ -1,0 +1,6 @@
+C:\Users\aies2\Desktop\InhereditanceLab\InhereditanceLab\RandomList\bin\Debug\RandomList.exe.config
+C:\Users\aies2\Desktop\InhereditanceLab\InhereditanceLab\RandomList\bin\Debug\RandomList.exe
+C:\Users\aies2\Desktop\InhereditanceLab\InhereditanceLab\RandomList\bin\Debug\RandomList.pdb
+C:\Users\aies2\Desktop\InhereditanceLab\InhereditanceLab\RandomList\obj\Debug\RandomList.csprojAssemblyReference.cache
+C:\Users\aies2\Desktop\InhereditanceLab\InhereditanceLab\RandomList\obj\Debug\RandomList.exe
+C:\Users\aies2\Desktop\InhereditanceLab\InhereditanceLab\RandomList\obj\Debug\RandomList.pdb
